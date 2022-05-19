@@ -1,0 +1,16 @@
+{
+  "firstName": "Ralfs",
+  "lastName": "Lâcis",
+  "email": "randomEmail123@gmail.com",
+  "gender": "Male",
+  "mobileNumber": "1234567890",
+  "dateMonth": "February",
+  "dateYear": "1930",
+  "dateDay": "28",
+  "subject": "Economics",
+  "hobbie": "Music",
+  "image": "image.jpg",
+  "currentAddress": "Noida Mor, Pandav Nagar, New Delhi, Delhi 110092, India",
+  "state": "NCR",
+  "city": "Delhi"
+}
